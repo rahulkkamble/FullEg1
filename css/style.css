@@ -30,3 +30,12 @@
 h2{
     padding: auto;
 }
+
+body{
+    padding: 50px 0 0 0;
+    z-index: 0;
+}
+
+.navbar-dark{
+    background-color: #512da8;
+}
