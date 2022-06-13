@@ -72,3 +72,15 @@ body{
 
     }
 }
+
+.modal-header{
+    background-color: $background-dark;
+    color: floralwhite;
+}
+
+.modal-body{
+    background-color: $background-pale;
+}
+.close{
+    color: $lt-gray;
+}
